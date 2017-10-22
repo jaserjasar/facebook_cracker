@@ -4,7 +4,7 @@ facebook password brut force This program is meant for educational purposes only
 
 usage:
 
-git clone https://github.com/jaserjasar/facbook_cracker.git 
+git clone https://github.com/jaserjasar/facebook_cracker.git 
 
 cd facebook_craker 
 
